@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540886736 source:/home/moreromem/Documents/Bach-Khoa/[Nam2]/DSA/Lab6/main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<stdlib.h>
+	<cstdlib>
+
